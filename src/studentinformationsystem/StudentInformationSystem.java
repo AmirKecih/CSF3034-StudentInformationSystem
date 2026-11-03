@@ -4,7 +4,7 @@ public class StudentInformationSystem {
 
     public static void main(String[] args) {
 
-        String studentName = "Muhammad Amir Haikal Bin Che Hazman";
+        String studentName = "Muhammad Amir Haikal Bin Che Hazman (updated)";
         String studentID = "S84912";
         
         int mark1 = 40;
